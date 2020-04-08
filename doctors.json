@@ -7,10 +7,16 @@
       "crm_state": "MG"
     },
     {
-      "photo": "http://placehold.it/50x50",
+      "photo": "https://scontent.fbfh4-1.fna.fbcdn.net/v/t1.0-1/p320x320/84568703_2555099384617098_2073655423629524992_n.jpg?_nc_cat=106&_nc_sid=dbb9e7&_nc_oc=AQkQGGYrrtCL1rYNvPY3RcN4hFhtC6Eim3F8D-BLD_-cj-KzDclyMsTgaAR7jvkf6Fo&_nc_ht=scontent.fbfh4-1.fna&_nc_tp=6&oh=1a0d6fe8794672155d0c608dfe87d404&oe=5EB33B57",
       "name": "Brunno Pleffken",
       "crm_number": "9876",
       "crm_state": "PR"
+    },
+    {
+      "photo": "https://scontent.fbfh4-1.fna.fbcdn.net/v/t1.0-1/c203.0.447.447a/s320x320/69582338_10214745682494351_3422841712299474944_n.jpg?_nc_cat=104&_nc_sid=dbb9e7&_nc_oc=AQmje0iJxkl_Rizik36glURR8AP191KyoIXzq-5lHsS6-tNkohLmc0xyJYyBaGHAGj4&_nc_ht=scontent.fbfh4-1.fna&oh=b8c26962c46ae0d23537eccd79b1ecec&oe=5EB3F5DB",
+      "name": "Marconi Loura",
+      "crm_number": "951753",
+      "crm_state": "SP"
     }
   ]
 }
