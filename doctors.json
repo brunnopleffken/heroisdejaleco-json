@@ -1,0 +1,16 @@
+{
+  "doctors": [
+    {
+      "photo": "http://placehold.it/50x50",
+      "name": "Vinícius Nastrini",
+      "crm_number": "12345",
+      "crm_state": "MG"
+    },
+    {
+      "photo": "http://placehold.it/50x50",
+      "name": "Brunno Pleffken",
+      "crm_number": "9876",
+      "crm_state": "PR"
+    }
+  ]
+}
